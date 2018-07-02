@@ -1,4 +1,4 @@
-## Project: Predicting Boston Housing Prices
+# Project: Predicting Boston Housing Prices
 
 ### Install
 
@@ -12,6 +12,20 @@ This project requires **Python 2.7**(if you complete this project in Python 3.x,
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook finding_donors.ipynb
+```  
+or
+```bash
+jupyter notebook finding_donors.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
